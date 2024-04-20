@@ -1,0 +1,7 @@
+sqlalchemy
+pandas 
+requests
+json
+datetime
+datetime
+sqlite3
